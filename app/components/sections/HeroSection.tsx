@@ -107,7 +107,7 @@ export default function HeroSection() {
                   alt="MSD Solicitors — Divorce & Family Law"
                   width={700}
                   height={560}
-                  className="object-cover w-full h-[320px] sm:h-[420px] lg:h-[500px]"
+                  className="object-contain w-full"
                   priority
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-900/50 via-transparent to-transparent" />
