@@ -17,6 +17,10 @@ export const metadata: Metadata = {
   description:
     "Experienced divorce and family law solicitors in Manchester, Birmingham and London. Expert guidance through every stage of the divorce process, financial settlements, child arrangements and mediation. Free initial consultation.",
   keywords: ["divorce solicitor Manchester", "family law solicitor", "divorce UK", "financial settlement divorce", "child arrangements", "family mediation"],
+  icons: {
+    icon: "/divorceLogo.webp",
+    apple: "/divorceLogo.webp",
+  },
   openGraph: {
     title: "MSD Solicitors – Divorce & Family Law Specialists",
     description: "Expert divorce and family law solicitors with offices in Manchester, Birmingham and London. Compassionate, professional legal advice.",
