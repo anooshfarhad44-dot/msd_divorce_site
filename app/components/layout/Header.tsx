@@ -352,8 +352,8 @@ export default function Header() {
 
             {/* Logo */}
             <Link href="/" className="shrink-0">
-              <Image src="/divorceLogo.webp" alt="MSD Solicitors" width={150} height={48}
-                className="h-11 w-auto object-contain" priority />
+              <Image src="/divorceLogo.webp" alt="MSD Solicitors" width={250} height={248}
+                className="h-25 w-auto object-contain" priority />
             </Link>
 
             {/* Desktop nav */}
